@@ -10,7 +10,7 @@ Prof. Mohsen Rashwan
 https://www.researchgate.net/profile/Mohsen_Rashwan
 
 # Team
-Bishoy Wael
-Hussein Naguib
-Khaled Elansary
+Bishoy Wael, 
+Hussein Naguib, 
+Khaled Elansary, 
 Sherif Essam
